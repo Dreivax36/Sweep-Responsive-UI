@@ -1,0 +1,126 @@
+//Admin
+/auth/save
+/auth/check
+/auth/logout
+/addService
+/updateStatus
+
+
+//Customer
+/customer/customer_save
+/customer/customer_check
+/customer/book
+
+//Cleaner
+/cleaner/cleaner_save
+/cleaner/cleaner_check
+cleaner/book
+
+
+
+/
+//Route for Admin Pages
+/auth/login
+/auth/register
+/admin_dashboard
+/admin_services
+/admin_transaction
+
+//Route for Customer Pages
+/customer/customer_login
+/customer/customer_register
+/customer/customer_dashboard
+/customer/customer_services
+/customer/customer_transaction
+/customer/customer_history
+/customer/customer_profile
+
+//Route for Cleaner App
+/cleaner/cleaner_login
+/cleaner/cleaner_register
+/cleaner/cleaner_dashboard
+/cleaner/cleaner_job
+/cleaner/cleaner_history
+
+});
+
+
+
+//Route for the Sweep Welcome Page
+sweep_welcome
+
+
+
+//Route for the Admin Dashboard Page
+admin_dashboard
+
+// Route for the Services Page
+admin_services
+
+//Route for the Transaction Page
+admin_transaction
+
+//Route for the Transaction History Page
+admin_transaction_history
+
+//Route for the Cleaner Payroll Page
+admin_payroll_cleaner
+
+//Route for the Employee Payroll Page
+admin_payroll_employee
+
+//Route for the Payroll Page
+admin_payroll
+
+// Route for the User Page
+admin_user
+
+//Route for the Cleaner User Page
+admin_user_cleaner
+
+//Route for the Customer User Page
+admin_user_customer
+
+
+//Route for the Cleaner Login Page
+cleaner/cleaner_login
+
+//Route for the Cleaner Register Page
+cleaner/cleaner_register
+
+//Route for the Cleaner Dashboard Page
+cleaner/cleaner_dashboard
+
+//Route for the Cleaner Job Page
+cleaner/cleaner_job
+
+//Route for the Cleaner History Page
+cleaner/cleaner_history
+
+//Route for the Cleaner Profile Page
+cleaner/cleaner_profile
+
+//Route for the Customer Login Page
+customer/customer_login
+
+//Route for the Customer Register Page
+customer/customer_register
+
+//Route for the Customer Dashboard Page
+customer/customer_dashboard
+
+//Route for the Customer Services Page
+customer/customer_services
+
+//Route for the Customer Transaction Page
+customer/customer_transaction
+
+//Route for the Customer History Page
+customer/customer_history
+
+//Route for the Customer Profile Page
+customer/customer_profile
+
+
+
+
